@@ -1,4 +1,4 @@
 # Personal-Page
  Personal Page
 
-Link: https://k-sumedh.github.io/knowMe/
+Link: https://vikassingh1998.github.io/Personal_Page/
